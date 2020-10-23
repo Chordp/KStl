@@ -4,7 +4,7 @@
 
 /// @file
 /// Implements code to use STL in a driver project
-#include "DriverEntry.h"
+
 #include <fltKernel.h>
 #include <string>
 #undef _HAS_EXCEPTIONS
